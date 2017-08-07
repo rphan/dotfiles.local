@@ -1,0 +1,14 @@
+#
+# Local package list follows
+#
+brew "lastpass-cli"
+cask "lastpass"
+cask "google-earth-pro"
+cask "parallels-desktop"
+cask "spotify"
+
+# brew bundle cleanup does not uninstall appstore apps
+mas "Kindle", id: 405399194
+mas "LastPass", id: 926036361
+mas "MindNode", id: 992076693
+mas "The Jackbox Party Pack 3", id: 1156513849
